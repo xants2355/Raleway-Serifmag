@@ -1,2 +1,2 @@
 # Raleway-Serifmag
-Special Raleway typeface family clone for Serifmag – Hungarian Type related website
+A specially treated Raleway typeface family clone, modified specially for Serifmag – the Hungarian type and typohraphy related website: https://www.serifmag.com
